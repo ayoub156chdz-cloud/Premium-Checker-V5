@@ -1,7 +1,5 @@
 pyTelegramBotAPI
 aiohttp
-requests
+fake-useragent
 python-dotenv
-certifi
-dnspython
-aiofiles
+pytz
