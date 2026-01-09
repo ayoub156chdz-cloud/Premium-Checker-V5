@@ -4,5 +4,6 @@ curl_cffi
 pytz
 redis
 motor
+pydantic
 cryptography
 python-dotenv
