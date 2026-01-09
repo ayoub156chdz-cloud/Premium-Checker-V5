@@ -1,6 +1,8 @@
 pyTelegramBotAPI
 aiohttp
-fake-useragent
-python-dotenv
+curl_cffi
 pytz
 redis
+motor
+cryptography
+python-dotenv
