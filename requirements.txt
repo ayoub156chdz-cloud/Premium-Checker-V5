@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+aiohttp
+requests
+python-dotenv
+certifi
+dnspython
+aiofiles
